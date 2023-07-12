@@ -48,7 +48,9 @@ This project was created by Hesron Atee. You can find me on LinkedIn at https://
 # Related Projects
 There are a number of other food delivery apps available, including Glovo, Bolt Foods, Hubtel, and Eziban. These apps offer similar features to ItzRedi App, but they may have different pricing or delivery options.
 
-Visuals
+# Visuals
+![Image5](https://github.com/hesrondrake89/ItzRedi/assets/113859517/f6223d13-d927-482c-ba10-3b4acb52477c)
+![Image5](https://github.com/hesrondrake89/ItzRedi/assets/113859517/e39c2f68-3131-4a0e-a8dd-7a23b0cab1b3)
 
 
 

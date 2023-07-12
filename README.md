@@ -50,7 +50,8 @@ There are a number of other food delivery apps available, including Glovo, Bolt 
 
 # Visuals
 ![Image5](https://github.com/hesrondrake89/ItzRedi/assets/113859517/f6223d13-d927-482c-ba10-3b4acb52477c)
-![Image5](https://github.com/hesrondrake89/ItzRedi/assets/113859517/e39c2f68-3131-4a0e-a8dd-7a23b0cab1b3)
+![Image1](https://github.com/hesrondrake89/ItzRedi/assets/113859517/04521008-53d8-4021-bd27-9bf40398b515)
+
 
 
 
